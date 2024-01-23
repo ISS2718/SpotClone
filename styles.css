@@ -2,6 +2,14 @@ body {
     background-color: #000;
 }
 
+.library {
+    background-color: #121212;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
 .sidebar {
     position: fixed;
     top: 0;
