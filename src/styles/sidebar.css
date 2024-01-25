@@ -1,7 +1,10 @@
+/* ALL PAGE */
 body {
     background-color: #000;
     font-family: var(--font-dm-sans);
 }
+
+/* SIDEBAR */
 
 .sidebar {
     position: fixed;
