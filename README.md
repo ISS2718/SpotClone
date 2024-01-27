@@ -10,4 +10,6 @@
 
 
 ## Resumo
-Um clone do site do [Spotify](https://open.spotify.com/intl-pt) feito na primeira Imersão Front-End Alura. 
+Um clone do site do [Spotify](https://open.spotify.com/intl-pt) feito na primeira #ImersãoFrontEnd e #Alura.
+
+[:warning:SITE AQUI:warning:](https://iss2718.github.io/SpotClone/)
