@@ -24,7 +24,7 @@
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 - [Node.js](https://nodejs.org/en/download/) que vem com o [npm](https://www.npmjs.com/get-npm) (Node Package Manager).
 
-## 📥 Instalação do JSON Server
+### 📥 Instalação do JSON Server
 
 Este projeto utiliza o `json-server@0.17.4` para simular uma API REST. Para instalar o `json-server`, você precisará executar o seguinte comando no terminal:
 
