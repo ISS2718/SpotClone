@@ -11,7 +11,7 @@
 
 ## 📝 Sobre o Projeto
 
-"SpotClone" é um clone da página web do [Spotify](https://open.spotify.com/intl-pt) criado durante a primeira #ImersãoFrontEnd e #Alura. O objetivo deste projeto é estudar e aprimorar minhas habilidades em desenvolvimento front-end.
+"SpotClone" é um clone da página web do [Spotify](https://open.spotify.com/intl-pt) criado durante a primeira #ImersãoFrontEnd da #Alura. O objetivo deste projeto é estudar e aprimorar minhas habilidades em desenvolvimento front-end.
 
 ## 💻 Tecnologias Utilizadas
 
